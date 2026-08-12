@@ -35,5 +35,5 @@
 ---
 
 ## 👤 القائمون على المشروع
-* **MO1_1**
-* **Roitsc**
+* **[MO1_1](https://github.com/MO1-O1)**
+* **[Roitsc](https://github.com/Roitsc)**
