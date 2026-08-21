@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 تعريب لعبة OneShot
+#  تعريب لعبة OneShot
 
 ![Downloads](https://img.shields.io/github/downloads/MO1-O1/oneshot-ar/total?style=for-the-badge&logo=github&label=Downloads&color=2ea44f)
 ![Version](https://img.shields.io/github/v/release/MO1-O1/oneshot-ar?style=for-the-badge&label=Version&color=blue)
