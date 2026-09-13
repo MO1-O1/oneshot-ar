@@ -3,7 +3,7 @@
 #  تعريب لعبة OneShot
 
 ![Downloads](https://img.shields.io/github/downloads/MO1-O1/oneshot-ar/total?style=for-the-badge&logo=github&label=Downloads&color=2ea44f)
-![Version](https://img.shields.io/github/v/release/MO1-O1/oneshot-ar?style=for-the-badge&label=Version&color=blue)
+
 ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
 
 مشروع تعريب عربي غير رسمي للعبة **OneShot**. يهدف المشروع إلى إتاحة تجربة اللعبة باللغة العربية مع الحفاظ على طابعها الخاص وأجوائها الفريدة.
